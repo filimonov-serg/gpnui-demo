@@ -1,2 +1,0 @@
-import{d as s,u as t,o as c,c as r,b as n,e as a,F as p,ab as _,p as d,g as l,a as m}from"./index-Bmbp8yCF.js";import{_ as u}from"./lim_plugin-vuelim_export-helper-DlAUqK2U.js";const h=e=>(d("data-v-ae5901a0"),e=e(),l(),e),f=h(()=>m("h2",null,"Collapse",-1)),i=s({__name:"Accordeon",setup(e){const o=t();return(I,S)=>(c(),r(p,null,[f,n(a(_),{theme:a(o).theme},null,8,["theme"])],64))}}),B=u(i,[["__scopeId","data-v-ae5901a0"]]);export{B as default};
-//# sourceMappingURL=Accordeon-BxPVWMCr.js.map
